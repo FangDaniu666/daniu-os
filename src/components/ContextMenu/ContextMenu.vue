@@ -81,7 +81,7 @@ export default {
       this.$store.commit('hide_context_menu')
     },
     open_project(){
-      window.open(" ", "_blank");
+      window.open("https://github.com/FangDaniu666/daniu-os", "_blank");
       this.$store.commit('hide_context_menu')
     },
     reload_clicked(){
