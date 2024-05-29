@@ -21,3 +21,4 @@ npm run serve
 
 ## 后端部分
 后端地址：[daniu-os-serve](https://github.com/FangDaniu666/daniu-os-serve)
+后台管理地址：[daniu-os-admin](https://github.com/FangDaniu666/daniu-os-admin)
