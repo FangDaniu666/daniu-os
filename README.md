@@ -19,6 +19,10 @@ npm run serve
 
 如果你的 npm 和 vue-cli 版本正确，以上命令应该可以启动程序。项目使用的具体版本可参考上文和 `package.json` 文件。
 
+## 预览
+![](./imgs/img.png)
+
 ## 后端部分
 后端地址：[daniu-os-serve](https://github.com/FangDaniu666/daniu-os-serve)
+
 后台管理地址：[daniu-os-admin](https://github.com/FangDaniu666/daniu-os-admin)
